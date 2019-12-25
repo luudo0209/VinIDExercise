@@ -1,10 +1,10 @@
-package luu.demo;
+package com.vinid.exercise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootCrudRestfulApplicationTests {
+class CrudServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

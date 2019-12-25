@@ -1,13 +1,13 @@
-package luu.demo;
+package com.vinid.exercise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootCrudRestfulApplication {
+public class CrudServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootCrudRestfulApplication.class, args);
+		SpringApplication.run(CrudServiceApplication.class, args);
 	}
 
 }
