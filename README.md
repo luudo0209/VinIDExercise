@@ -1,4 +1,4 @@
-# VinIDExercise
+# Exercise
 user  CRUD  - Spring boot
 Đề bài: 
 Viết 1 service backend về quản lý user, có các API sau. viết bằng java spring, quản lý dependencies = maven hoặc gradle, DB tùy chọn.
